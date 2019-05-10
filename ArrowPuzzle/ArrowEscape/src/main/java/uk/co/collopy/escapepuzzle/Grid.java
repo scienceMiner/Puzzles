@@ -4,6 +4,11 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// TODO : CHANGE OUTPUT TO LOGGING
+// TODO : Add a telemetry solution for this
+
+
 public class Grid<E> {
 
 	public static void main(String[] args) {
